@@ -1,7 +1,6 @@
 insert into managers(
 firstname, lastname
 )
-
 values
 ('Mark', 'Smith')
 ,('Jeanne', 'Doe')
