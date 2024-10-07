@@ -5,7 +5,7 @@ cost_forecast_id integer
 ,"year" integer
 ,ship text
 ,sales integer
-,cost_forecast integer
+,sales_forecast integer
 )
 select * from cost_forecast
 
