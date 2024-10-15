@@ -31,7 +31,7 @@ ds_sm_orders as
 select * from ds_sm_orders
 
 
-
+-- do dokończenia !!!
 
 
 
