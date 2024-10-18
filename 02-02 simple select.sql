@@ -1,4 +1,4 @@
--- my fisrt comment
+-- my first comment
 /* my second comment*/
 select 
 	order_id
