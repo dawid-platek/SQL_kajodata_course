@@ -1,2 +1,2 @@
 select * from orders o
-where shipping_mode like 'F%'
+where delivery_city like '%i%i%'
