@@ -2,7 +2,7 @@
 
 
 with
-orders_per customer as
+orders_per_customer as
 	(
 	select 
 		customer_id 
